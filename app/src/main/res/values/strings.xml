@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DynamicallyValue</string>
+    <string name="enter_something">First Value</string>
+    <string name="seconvalue">Second Value</string>
+</resources>
